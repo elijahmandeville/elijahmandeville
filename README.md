@@ -10,7 +10,7 @@ I'm Elijah, a full-stack web developer based in Colorado who's passionate about 
 
 ### Current Skills...
 
-* Front-End Development (HTML/SCSS, React, Redux)
+* Front-End Development (HTML/SCSS, ReactJS, Redux)
 * Back-End Development (NodeJS/ExpressJS, Knex, PostgreSQL)
 * Python
 
